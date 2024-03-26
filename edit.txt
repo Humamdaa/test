@@ -8,9 +8,7 @@ B(){}
 }
 git fetch origin
 git merge origin/main
-
 I try fetch and merge.
 new line after merge .
-
-
 ...............
+new line after merge ...........
