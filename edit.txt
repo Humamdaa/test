@@ -6,3 +6,5 @@ A(){}
 calss B{
 B(){}
 }
+
+new line after merge .
