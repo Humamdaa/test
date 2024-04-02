@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 empty
 --after merge
+=======
+empty-merge
+>>>>>>> a412269ddf5358c493c8b52a0a1ade40ea7486ec
