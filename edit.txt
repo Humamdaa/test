@@ -13,4 +13,5 @@ new line after merge .
 ...............
 new line after merge ...........
 ---
-text edited by fouad
+
+-- after delete
